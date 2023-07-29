@@ -1,2 +1,1 @@
-ALX SIMPLE SHELL PROJECT
-Usage: ./shell
+Group project 2 - simple shell
